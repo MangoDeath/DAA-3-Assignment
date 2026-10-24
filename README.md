@@ -88,12 +88,3 @@ n is the number of cells, m the number of walls (or slides). Fill in every algor
 
 ## Verification
 
-`java tools/Check.java` compiles the project and passes all provided examples: tiny, small, and dag.
-
-## Before you submit
-
-- data/walls.txt, data/slides.txt and output/maze.png are in the repository.
-- `java tools/Check.java` shows all examples right.
-- This README is filled in, the program output and the section AI use included.
-- The work is pushed to main (at least one commit per mission) and the repository is public.
-- The link is attached in Moodle.
