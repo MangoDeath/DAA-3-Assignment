@@ -86,6 +86,10 @@ n is the number of cells, m the number of walls (or slides). Fill in every algor
 | Kosaraju | O(n + m) | O(n + m) | Iterative stacks and adjacency lists |
 | Route in the zone graph | O(n + m) | O(n + m) | Zones are already in topological order |
 
+## Verification
+
+`java tools/Check.java` compiles the project and passes all provided examples: tiny, small, and dag.
+
 ## Before you submit
 
 - data/walls.txt, data/slides.txt and output/maze.png are in the repository.
